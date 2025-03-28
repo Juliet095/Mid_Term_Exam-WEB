@@ -24,9 +24,9 @@
 
 
 # no. 1 Explain the difference between let, const, and var in JavaScript
-  "let" is block scoped, it can be reassigned but cannot be redeclared within the same scope. 
-  "var" is function scoped, it can be reassigned and redeclared within the same scope. 
-  "const" is block scoped, it cannot be reassigned nor redeclared.
+  "let" is block scoped,  It can be reassigned but cannot be redeclared within the same scope. 
+  "var" is function scoped,  It can be reassigned and redeclared within the same scope. 
+  "const" is block scoped,  it cannot be reassigned or redeclared .
 
 # n. 2 What are JavaScript objects, and how are they different from arrays?
    JavaScript objects are collections of key-value pairs where keys are unique identifiers (strings or symbols) and values can be of any data type. 
