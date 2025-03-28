@@ -1,4 +1,6 @@
-// SECTION C
+//  SECTION C
+
+
 // NO.1
 function reverse_number(a){
     return parseInt(a.toString().split('').reverse().join(''));

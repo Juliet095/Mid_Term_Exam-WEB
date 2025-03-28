@@ -1,5 +1,7 @@
 # Mid_Term_Exam-WEB
-<!-- SECTION A -->
+##  SECTION A 
+
+
 1. b . [1, 2, 3, 4]
 
 2. c . Character 
@@ -10,13 +12,17 @@
 
 5. b . 10
 
-6. a. parseInt()
+6. d. All of the above()
 
-7. d. slice()
+7. a. pop()
 
 8. c. const
 
-<!-- SECTION B -->
+
+ 
+## SECTION B
+
+
 # no. 1 Explain the difference between let, const, and var in JavaScript
   "let" is block scoped, it can be reassigned but cannot be redeclared within the same scope. 
   "var" is function scoped, it can be reassigned and redeclared within the same scope. 
